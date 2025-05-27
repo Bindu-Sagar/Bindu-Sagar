@@ -1,6 +1,11 @@
-# 👋 Hi there, I'm Bindu Sagar Singanamalla
+
+
+<div align="center">
+  # 👋 Hi there, I'm Bindu Sagar Singanamalla
 
 🚀 **Java Full Stack Developer** with 3+ years of experience designing and delivering scalable web applications from end to end. I love building efficient backend APIs and beautiful frontend experiences using modern tools and cloud technologies.
+  
+</div>
 
 ---
 
@@ -55,7 +60,7 @@
 
 ## 📫 Contact
 
-- [Linkedin)(https://www.linkedin.com/in/bindusagarsinganamalla/)
+- [Linkedin](https://www.linkedin.com/in/bindusagarsinganamalla/)
 - 📧 [Email](bindusagarsinganamalla@gmail.com)  
 - 📱 (913) 238-4643
 
