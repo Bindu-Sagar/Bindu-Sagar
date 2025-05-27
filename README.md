@@ -46,7 +46,7 @@
 ## 📜 Certification
 
 <a href="https://www.credly.com/badges/7fc1764a-d841-4fab-b9ce-833788294655/public_url">
-  <img src="https://images.credly.com/size/110x110/images/7fc1764a-d841-4fab-b9ce-833788294655/AWS_Certified_Solutions_Architect___Associate_badge.png" alt="AWS Certified Solutions Architect – Associate" width="110"/>
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110"/>
 </a>
 
 
