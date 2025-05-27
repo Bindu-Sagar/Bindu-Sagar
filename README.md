@@ -63,7 +63,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/bindusagarsinganamalla/)
 - 📧 [Email](bindusagarsinganamalla@gmail.com)  
-- 📱 (913) 238-4643
+- 📱 [Phone](+1 9132384643)
 
 ---
 
