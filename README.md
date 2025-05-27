@@ -1,4 +1,5 @@
 
+<img src="https://www.vcubesoftsolutions.com/wp-content/uploads/2021/11/java1-1.jpg" alt="Java Full Stack Developer"/>
 
 <div align="center">
   <h1>👋 Hi there, I'm Bindu Sagar Singanamalla</h1>
