@@ -1,5 +1,5 @@
 
-<img src="https://thumbs.dreamstime.com/b/full-stack-developer-digital-java-code-text-computer-software-coding-vector-concept-programming-script-program-153567437.jpg" alt="Java Full Stack Developer"/>
+<img width="100%" src="https://thumbs.dreamstime.com/b/full-stack-developer-digital-java-code-text-computer-software-coding-vector-concept-programming-script-program-153567437.jpg" alt="Java Full Stack Developer"/>
 
 <div align="center">
   <h1>👋 Hi there, I'm Bindu Sagar Singanamalla</h1>
@@ -19,24 +19,6 @@
 - **Cloud & DevOps:** AWS (EC2, Lambda, SQS, SNS, CodeDeploy), Docker, Kubernetes, Jenkins, GitHub Actions
 - **Testing:** JUnit, Mockito, Postman, React Testing Library
 - **Others:** GraphQL, RabbitMQ, Swagger UI, OAuth2, JWT
-
----
-
-## 💼 Experience Highlights
-
-### 🔹 Java Full Stack Developer – Allstate, Kansas _(Nov 2024 – Present)_
-- Optimized React components with memoization & lazy loading (⬇️ 50% load time)
-- Built resilient Spring Boot microservices communicating over Kafka
-- Secured APIs using JWT (RS256) & enhanced validation logic
-- Designed Kubernetes networking for better service communication
-- Integrated MongoDB with efficient queries and aggregation pipelines
-
-### 🔹 Java Full Stack Developer – Zensar Technologies, India _(Jul 2020 – Jun 2023)_
-- Developed REST APIs and scalable services using Spring Boot
-- Enabled secure OAuth2 flows with Keycloak & Spring Security (100K+ users)
-- Automated CI/CD using Docker, Jenkins & AWS CodeDeploy
-- Enhanced reliability with RabbitMQ and encrypted data flows
-- Applied Hibernate ORM and AWS CloudFormation for smooth deployments
 
 ---
 
@@ -61,9 +43,9 @@
 
 ## 📫 Contact
 
-- [Linkedin](https://www.linkedin.com/in/bindusagarsinganamalla/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/bindusagarsinganamalla/)
 - 📧 [Email](bindusagarsinganamalla@gmail.com)  
-- 📱 <a href="+1 (913) 238 4643>Phone</a>
+- 📱 <a href="+1 (913) 238 4643">Phone</a>
 
 ---
 
