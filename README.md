@@ -55,7 +55,7 @@
 
 ## 📫 Contact
 
-- 📍 San Jose, California  
+- [Linkedin)(https://www.linkedin.com/in/bindusagarsinganamalla/)
 - 📧 [Email](bindusagarsinganamalla@gmail.com)  
 - 📱 (913) 238-4643
 
