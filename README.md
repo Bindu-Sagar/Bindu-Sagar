@@ -45,14 +45,14 @@
 
 ## 📜 Certification
 
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/7fc1764a-d841-4fab-b9ce-833788294655/AWS_Certified_Solutions_Architect___Associate_badge.png)](https://www.credly.com/badges/7fc1764a-d841-4fab-b9ce-833788294655/public_url)
+[AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/7fc1764a-d841-4fab-b9ce-833788294655/AWS_Certified_Solutions_Architect___Associate_badge.png)](https://www.credly.com/badges/7fc1764a-d841-4fab-b9ce-833788294655/public_url)
 
 ---
 
 ## 📫 Contact
 
 - 📍 San Jose, California  
-- 📧 bindu.s@mymailkeeper.com  
+- 📧 [Email](bindusagarsinganamalla@gmail.com)  
 - 📱 (913) 238-4643
 
 ---
